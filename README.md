@@ -2,7 +2,7 @@
 
 ---
 
-Why not dedicate some of your time to *research* in the field of **education**, exploring various *patterns*, *dependencies*, and *connections* in student life? With a repository of open-source information and a research project at your fingertips, **StudentResearchE** makes it easier than ever to dive into this fascinating area.
+Why not dedicate some of your time to *research* in the field of **education**, exploring various *patterns*, *dependencies*, and *connections* in school life? With a repository of open-source information and a research project at your fingertips, **StudentResearchE** makes it easier than ever to dive into this fascinating area.
 
 ---
 

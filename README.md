@@ -20,6 +20,8 @@ This section outlines the key components of the research project:
 
 The dataset includes various attributes related to students' demographics, academic performance, and lifestyle choices. Below is a summary of the columns included in the dataset:
 
+`649 Objects`
+
 | Column Name        | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | school             | School (GP or MS)                                                          |
@@ -58,3 +60,13 @@ The dataset includes various attributes related to students' demographics, acade
 
 ### [Data Source](pplx://action/followup)
 The dataset is sourced from Kaggle: [Kaggle Student Dataset](https://www.kaggle.com/datasets/krishnaarora14/student-dataset)
+
+## [Libraries Used](pplx://action/followup)
+
+The following Python libraries are used in this project:
+
+- `pandas 1.4.4`: For data manipulation and analysis.
+- `numpy 1.26.4`: For numerical operations.
+- `scipy 1.13.1`: For statistical functions and tests.
+- `matplotlib.pyplot`: For creating static, animated, and interactive visualizations.
+- `seaborn`: For statistical data visualization based on Matplotlib.
